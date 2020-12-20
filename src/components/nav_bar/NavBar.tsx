@@ -12,7 +12,7 @@ class NavBar extends React.Component {
                         <td><Link to='/'>Home</Link></td>
                         <td><Link to='/About'>About</Link></td>
                         <td><Link to='/Portfolio'>Portfolio</Link></td>
-                        <td><Link to='/Blog'>Blog</Link></td>
+                        {/* <td><Link to='/Blog'>Blog</Link></td> */}
                         <td><Link to='/Art'>Art</Link></td>
                     </tr>
                 </tbody>

@@ -1,0 +1,25 @@
+#home-container {
+    margin: auto;
+    text-align: center;
+    padding: 20px 25vh;
+    width: 50%;
+}
+
+header {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+}
+
+ul {
+    text-align: left;
+}
+
+li {
+    margin: 10px 0;
+}
