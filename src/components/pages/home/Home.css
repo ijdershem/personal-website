@@ -1,5 +1,8 @@
 #home-container {
-    margin: auto;
+    position: fixed;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%);
     text-align: center;
     padding: 20px 25vh;
     width: 50%;
