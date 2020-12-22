@@ -1,4 +1,4 @@
-#home-container {
+#about-container {
     font-family: inherit;
     position: fixed;
     left: 50%;
@@ -10,21 +10,16 @@
     font-size: 16pt;
 }
 
-header {
-    font-weight: bold;
-    font-size: 20pt;
+#about-container header {
+    font-size: 14pt;
 }
 
-a {
-    text-decoration: none;
-    color: inherit;
-    font-weight: bold;
-}
-
-ul {
+#about-container p:first-of-type {
+    font-weight: normal !important;
     text-align: left;
 }
 
-li {
-    margin: 10px 0;
+#about-content {
+    font-size: 14pt;
+    text-align: left;
 }
